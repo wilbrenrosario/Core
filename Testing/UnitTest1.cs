@@ -15,5 +15,14 @@ namespace Testing
             // Assert
             Assert.AreEqual(HttpStatusCode.OK, result.StatusCode);
         }
+
+        [TestMethod]
+        public void Products()
+        {
+            var _httpClient = new HttpClient();
+            var result = _httpClient.GetAsync($"https://localhost:7028/Products").Result;
+            // Assert
+            Assert.AreEqual(HttpStatusCode.OK, result.StatusCode);
+        }
     }
 }

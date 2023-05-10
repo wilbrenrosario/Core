@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\U1048\\Documents\\GitHub\\Core\\ApiGateway\\ApiGateway.csproj": {}
+    "C:\\Users\\Wilbren\\Documents\\GitHub\\core\\ApiGateway\\ApiGateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\U1048\\Documents\\GitHub\\Core\\ApiGateway\\ApiGateway.csproj": {
+    "C:\\Users\\Wilbren\\Documents\\GitHub\\core\\ApiGateway\\ApiGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\U1048\\Documents\\GitHub\\Core\\ApiGateway\\ApiGateway.csproj",
+        "projectUniqueName": "C:\\Users\\Wilbren\\Documents\\GitHub\\core\\ApiGateway\\ApiGateway.csproj",
         "projectName": "ApiGateway",
-        "projectPath": "C:\\Users\\U1048\\Documents\\GitHub\\Core\\ApiGateway\\ApiGateway.csproj",
-        "packagesPath": "C:\\Users\\U1048\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\U1048\\Documents\\GitHub\\Core\\ApiGateway\\obj\\",
+        "projectPath": "C:\\Users\\Wilbren\\Documents\\GitHub\\core\\ApiGateway\\ApiGateway.csproj",
+        "packagesPath": "C:\\Users\\Wilbren\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wilbren\\Documents\\GitHub\\core\\ApiGateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\U1048\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Wilbren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
