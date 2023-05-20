@@ -5,6 +5,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 //app.MapGet("/", () => "Hello World!");
 
+builder.WebHost.UseUrls("http://*:3000");
+
 //OCELOT SETTING
 builder.Configuration.SetBasePath(builder.Environment.ContentRootPath)
     .AddJsonFile("ocelot.json", optional: false, reloadOnChange: true)

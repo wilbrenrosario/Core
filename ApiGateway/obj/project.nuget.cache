@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hIbPz6Fn3C04sNGoK1j6TfPHH7aVQ8I2FShdrfjDAh4bSH3IkKlbeJDWNLbmzEOPXUBoOkhQYF8jybG1CKeg7A==",
+  "dgSpecHash": "5rFKMcEX3Ko5gg+zhc5GZw3vQT+UCJGBWWXyrK5kGsu7qXfrqsyTQ62+9jlT9SO31uijqFoLeBE4nCYwTOFHJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Wilbren\\Documents\\GitHub\\core\\ApiGateway\\ApiGateway.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\Wilbren\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Wilbren\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Wilbren\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.1.22\\microsoft.extensions.diagnosticadapter.3.1.22.nupkg.sha512",
+    "C:\\Users\\Wilbren\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
     "C:\\Users\\Wilbren\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Wilbren\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\Wilbren\\.nuget\\packages\\ocelot\\18.0.0\\ocelot.18.0.0.nupkg.sha512",
