@@ -194,13 +194,13 @@ C:\Users\U1048\Documents\GitHub\Core\Testing\obj\Debug\net6.0\refint\Testing.dll
 C:\Users\U1048\Documents\GitHub\Core\Testing\obj\Debug\net6.0\Testing.pdb
 C:\Users\U1048\Documents\GitHub\Core\Testing\obj\Debug\net6.0\Testing.genruntimeconfig.cache
 C:\Users\U1048\Documents\GitHub\Core\Testing\obj\Debug\net6.0\ref\Testing.dll
-C:\Users\Wilbren\Documents\GitHub\core\Testing\bin\Debug\net6.0\testhost.exe
 C:\Users\Wilbren\Documents\GitHub\core\Testing\bin\Debug\net6.0\testhost.dll
+C:\Users\Wilbren\Documents\GitHub\core\Testing\bin\Debug\net6.0\testhost.exe
+C:\Users\Wilbren\Documents\GitHub\core\Testing\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\Wilbren\Documents\GitHub\core\Testing\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\Wilbren\Documents\GitHub\core\Testing\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\Wilbren\Documents\GitHub\core\Testing\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\Wilbren\Documents\GitHub\core\Testing\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
-C:\Users\Wilbren\Documents\GitHub\core\Testing\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\Wilbren\Documents\GitHub\core\Testing\bin\Debug\net6.0\Testing.deps.json
 C:\Users\Wilbren\Documents\GitHub\core\Testing\bin\Debug\net6.0\Testing.runtimeconfig.json
 C:\Users\Wilbren\Documents\GitHub\core\Testing\bin\Debug\net6.0\Testing.dll

@@ -1,8 +1,18 @@
-version: '3.4'
+version: '3.8'
 
 services:
-  weatherforecast:
-    image: ${DOCKER_REGISTRY-}weatherforecast
+  web1:
+    image: ${DOCKER_REGISTRY-}web1
     build:
       context: .
-      dockerfile: Animales/Dockerfile
+      dockerfile: Web1/Dockerfile
+    ports:
+        - "2000:2000"
+  apigateway:
+    image: ${DOCKER_REGISTRY-}apigateway
+    build:
+      context: .
+      dockerfile: ApiGateway/Dockerfile
+    ports:
+        - "3000:3000"
+

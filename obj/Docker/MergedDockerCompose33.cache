@@ -1,0 +1,33 @@
+name: dockercompose15438704315466733033
+services:
+  web1:
+    build:
+      context: C:\Users\Wilbren\Documents\GitHub\core
+      dockerfile: Web1/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      ASPNETCORE_URLS: http://+:80
+    image: web1
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 2000
+      published: "2000"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\Wilbren\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\Wilbren\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+networks:
+  default:
+    name: dockercompose15438704315466733033_default

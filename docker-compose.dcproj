@@ -3,10 +3,10 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
-    <ProjectGuid>3ae92354-a208-4079-b9bb-852a3e35377b</ProjectGuid>
+    <ProjectGuid>93aec0ec-f95e-4dd4-bd41-905d392ccebd</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}/swagger</DockerServiceUrl>
-    <DockerServiceName>weatherforecast</DockerServiceName>
+    <DockerServiceName>web1</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
     <None Include="docker-compose.override.yml">
